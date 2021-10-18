@@ -1,0 +1,4 @@
+- test
+  - e2e(cypress)
+  - unit(jest)
+- polyfill(target es6)
